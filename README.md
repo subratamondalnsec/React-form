@@ -1,12 +1,43 @@
-# React + Vite
+# React-form 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive form built with **React and JavaScript**.  
+The form collects user information with various input types and updates the state dynamically using React's `useState`.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 👤 Collects user information: first name, last name, email  
+- 💬 Textarea for comments  
+- ✅ Checkbox option  
+- 🎚️ Radio buttons for selecting mode (online/offline)  
+- 🚗 Dropdown selection for favorite car  
+- 🔄 State updates in real-time  
+- 🖥️ Easy-to-use, minimal design  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+- **React.js**  
+- **JavaScript (ES6+)**  
+- **CSS**  
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- Node.js & npm installed on your system
+
+### 🔧 Installation
+```bash
+# Clone the repository
+git clone https://github.com/subratamondalnsec/React-form.git
+
+# Navigate into the folder
+cd React-form
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
